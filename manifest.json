@@ -40,9 +40,9 @@
     {
       "id": "suite",
       "name": "Blackwood Suite",
-      "version": "1.2.3",
-      "asset": "Blackwood-Suite-1.2.3.zip",
-      "url": "https://github.com/cadurec/blackwood-installers/releases/download/suite-v1.2.3/Blackwood-Suite-1.2.3.zip"
+      "version": "1.3",
+      "asset": "Blackwood-Suite-1.3.zip",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/suite-v1.3/Blackwood-Suite-1.3.zip"
     }
   ]
 }

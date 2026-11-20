@@ -36,6 +36,13 @@
       "version": "1.0.2",
       "asset": "Blackwood-Motion-Blur-1.0.2.pkg",
       "url": "https://github.com/cadurec/blackwood-installers/releases/download/motionblur-v1.0.2/Blackwood-Motion-Blur-1.0.2.pkg"
+    },
+    {
+      "id": "suite",
+      "name": "Blackwood Suite",
+      "version": "1.2",
+      "asset": "Blackwood-Suite-1.2.zip",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/suite-v1.2/Blackwood-Suite-1.2.zip"
     }
   ]
 }

@@ -5,9 +5,9 @@
     {
       "id": "captions",
       "name": "Blackwood Captions",
-      "version": "1.4.1",
-      "asset": "Blackwood-Captions-1.4.1.pkg",
-      "url": "https://github.com/cadurec/blackwood-installers/releases/download/captions-v1.4.1/Blackwood-Captions-1.4.1.pkg"
+      "version": "1.4.2",
+      "asset": "Blackwood-Captions-1.4.2.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/captions-v1.4.2/Blackwood-Captions-1.4.2.pkg"
     },
     {
       "id": "color",

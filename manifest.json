@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "updated": "2026-11-20",
+  "plugins": [
+    {
+      "id": "captions",
+      "name": "Blackwood Captions",
+      "version": "1.2.5",
+      "asset": "Blackwood-Captions-1.2.5.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/captions-v1.2.5/Blackwood-Captions-1.2.5.pkg"
+    },
+    {
+      "id": "color",
+      "name": "Blackwood Color",
+      "version": "1.2.8",
+      "asset": "Blackwood-Color-1.2.8.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/color-v1.2.8/Blackwood-Color-1.2.8.pkg"
+    },
+    {
+      "id": "depth",
+      "name": "Blackwood Depth",
+      "version": "1.0.2",
+      "asset": "Blackwood-Depth-1.0.2.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/depth-v1.0.2/Blackwood-Depth-1.0.2.pkg"
+    },
+    {
+      "id": "glow",
+      "name": "Blackwood Glow",
+      "version": "1.0.2",
+      "asset": "Blackwood-Glow-1.0.2.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/glow-v1.0.2/Blackwood-Glow-1.0.2.pkg"
+    },
+    {
+      "id": "motionblur",
+      "name": "Blackwood Motion Blur",
+      "version": "1.0.2",
+      "asset": "Blackwood-Motion-Blur-1.0.2.pkg",
+      "url": "https://github.com/cadurec/blackwood-installers/releases/download/motionblur-v1.0.2/Blackwood-Motion-Blur-1.0.2.pkg"
+    }
+  ]
+}
